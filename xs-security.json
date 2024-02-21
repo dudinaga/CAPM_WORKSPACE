@@ -1,0 +1,10 @@
+{
+  "scopes": [],
+  "attributes": [],
+  "role-templates": [],
+  "oauth2-configuration": {
+    "redirect-uris": [
+        "https://e01db6b4trial-dev-capm-workspace.cfapps.us10-001.hana.ondemand.com/login/callback"
+    ]
+}
+}
